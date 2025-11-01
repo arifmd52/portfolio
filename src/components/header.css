@@ -1,0 +1,5 @@
+.site-header .container { display: flex; align-items: center; justify-content: space-between; }
+.nav a { margin-left: 1rem; color: var(--muted); text-decoration: none; }
+.site-title { color: var(--accent); font-weight: 700; }
+.nav a:hover { color: var(--accent); }
+.site-header { padding: 0.5rem 0; }
